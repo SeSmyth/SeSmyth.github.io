@@ -1,0 +1,46 @@
+body {
+  background: linear-gradient(to right,darkgreen, green,forestgreen,green,darkgreen);
+}
+
+#text {
+  text-align: center;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: forestgreen;
+    background: linear-gradient(to right,green,forestgreen,green);
+    border-color: darkgreen;
+    border-width: thick;
+    border-style: double;
+  padding: 20px;
+  font-family: serif;
+  font-size: 20px;
+}
+
+
+#kiss {
+  max-width: 500px;
+  max-height: 500px;
+  margin-left:25%;
+  margin-right:25%;
+  margin-bottom: 50px;
+}
+
+
+img {max-width: 700;
+    max-height: 500;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    align-items: center;
+    margin: 20px;
+}
+
+#footer {
+  text-align: center;
+ width: 700px;
+ margin-left: auto;
+ margin-right: auto;
+ height: 20px;
+ font-size: 20px;
+}
